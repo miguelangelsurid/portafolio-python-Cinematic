@@ -1,0 +1,7 @@
+numpy
+matplotlib
+astropy
+photutils
+lacosmic
+jupyter
+jupyterlab
