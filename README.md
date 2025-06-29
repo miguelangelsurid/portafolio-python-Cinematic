@@ -4,7 +4,7 @@ In this work, using integral field spectroscopy data, we will calculate the rota
 
 ## Data
 
-The data used in this work can be downloaded in this link: https://www.dropbox.com/scl/fo/amsoy4i3lkmyorozpb81u/ABQ8Z7djP_Ks1o1xq4Qe01g?rlkey=zafi4cm9ngenpbc172yo46xqj&st=jgyagc30&dl=0](https://www.dropbox.com/scl/fo/x1kr9w0p5y498wiqehezr/AEIKpK4Np4YC_AkTTwGTViY?rlkey=tomexhbfnkmdv2eg03qu5p5wr&st=31hytzxj&dl=0
+The data used in this work can be downloaded in this link: https://www.dropbox.com/scl/fo/x1kr9w0p5y498wiqehezr/AEIKpK4Np4YC_AkTTwGTViY?rlkey=tomexhbfnkmdv2eg03qu5p5wr&st=ririfw6a&dl=0
 
 ## You need to have (Requirements)
 
